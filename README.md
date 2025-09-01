@@ -20,3 +20,14 @@ A **Streamlit app** that extracts structured data from **Insurance Claim PDF for
    ```bash
    git clone https://github.com/haripriyanka1234/auto-claim-data-pipeline.git
    cd insurance-claim-extractor
+
+# Streamlit OCR App  
+
+This project extracts data from application forms (structured and handwritten) and uploads results to GitHub.  
+
+## 🚀 Live App  
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://haripriyanka1234-auto-claim-data-pipeline-apph-a42tnv.streamlit.app/)
+
+## 📸 Demo Screenshot  
+![App Screenshot](screenshot.png)
+
